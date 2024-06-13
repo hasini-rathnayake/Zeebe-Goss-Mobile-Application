@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "665474023095",
+    "project_id": "zeebe-goss-finalapp",
+    "storage_bucket": "zeebe-goss-finalapp.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:665474023095:android:703a7d42aa1a102b11d732",
+        "android_client_info": {
+          "package_name": "com.example.user_zeebe_app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA9FM4egnx7enS02E8RqZBPfiMWDghC4KQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
